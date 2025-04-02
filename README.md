@@ -1,5 +1,5 @@
 <a href="https://ai-sdk-starter-deepinfra.vercel.app">
-  <h1 align="center">Vercel x DeepInfra Chatbot</h1>
+  <h1 align="center">Captain Jays AI Chatbot</h1>
 </a>
 
 <p align="center">
