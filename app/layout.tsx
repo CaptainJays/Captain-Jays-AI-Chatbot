@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Captain Jays Fish & Chicken AI Chatbot",
   description:
-    "This starter project uses DeepInfra with the AI SDK via the Vercel Marketplace",
+    "This project is still in [WIP] using DeepInfra.",
 };
 
 export default function RootLayout({
